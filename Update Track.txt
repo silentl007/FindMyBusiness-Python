@@ -1,0 +1,15 @@
+-- added native back functionality
+-- on press of a list item, location is revealed in full for small screen phones
+-- add business page text input box in SLogic characters can now be contained in the box
+-- hardcore add business number to allow only numbers
+-- bookmark added
+-- using sqlite to manage bookmarks
+-- online database; for storing, retrieving and reviewing applications
+-- added flask to act as server between app and database because dnspython does not work on android; hosted on Heroku
+
+dependencies
+-- kivy
+-- kivymd
+-- pymongo
+-- sqlite
+-- request
